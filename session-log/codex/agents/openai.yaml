@@ -1,0 +1,7 @@
+interface:
+  display_name: "Session Log"
+  short_description: "在当前工作目录维护中文 session-log.md，并按指令记录会话与更新概览"
+  default_prompt: "Use $session-log to create or maintain a Chinese session-log.md in the current working directory."
+
+policy:
+  allow_implicit_invocation: true
